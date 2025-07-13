@@ -1,0 +1,12 @@
+/graph
+/lib
+.coverage
+.ipynb_checkpoint
+/data
+**__pycache__
+/tmp
+**.DS_Store
+/nlaugmenter
+/transformation/code_sp_transformation
+/data_loader/benchmarks/
+.vector_cache/

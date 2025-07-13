@@ -1,0 +1,11 @@
+Please write a test method for the function '{func_name}' given the following program under test.
+Your answer should cover different statements and branches
+
+Program under test:
+----
+{program}
+----
+
+Your test method should begin with:
+def test_{func_name}():
+    solution=Solution()
